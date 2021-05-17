@@ -7,7 +7,7 @@ include_once "ImgFile.php";
  */
 class ImgBMP extends ImgFile
 {
-    public function run()
+    public function play()
     {
         // TODO: Implement run() method.
         return "我是BMP格式的图片文件";

@@ -7,5 +7,5 @@
 
 abstract class ImgFile
 {
-    abstract public function run();
+    abstract public function play();
 }
